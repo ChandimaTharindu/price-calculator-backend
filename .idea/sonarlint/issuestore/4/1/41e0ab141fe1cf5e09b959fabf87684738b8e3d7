@@ -1,0 +1,20 @@
+
+b
+java:S1854""@Remove this useless assignment to local variable "objectMapper".(¡ôó‰ùÿÿÿÿ8ı µ©ü.
+H
+java:S19055"&Remove this unnecessary cast to "int".(¶øìşÿÿÿÿ8…‹¤ü.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™õŞ¶
+S
+java:S1481""1Remove this unused "objectMapper" local variable.(¡ôó‰ùÿÿÿÿ8ı µ©ü.
+F
+java:S1068"*Remove this unused "logger" private field.(Â¢Ù>8…‹¤ü.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ú…ïõ8…‹¤ü.
+`
+java:S1854(">Remove this useless assignment to local variable "unitePrice".(Æ°‰Âûÿÿÿÿ8…‹¤ü.
+H
+java:S19051"&Remove this unnecessary cast to "int".(éÀËãúÿÿÿÿ8…‹¤ü.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÛù©şÿÿÿÿ8µä½€ü.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¨Äğ‡ü.
+]	java:S125E"<This block of commented-out lines of code should be removed.(¥Œ·ùıÿÿÿÿ8ı µ©ü.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(‚şÏÃüÿÿÿÿ8…‹¤ü.

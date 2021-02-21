@@ -1,0 +1,15 @@
+
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(«Î‰¥ùÿÿÿÿ8üå°€ü.
+X	java:S125"<This block of commented-out lines of code should be removed.(½ğ‘Ç8Œ…‹¤ü.
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(×õÓêûÿÿÿÿ8“à¯ˆü.
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(¤í££ıÿÿÿÿ8üå°€ü.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(’½Æûÿÿÿÿ8Œ…‹¤ü.
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(×õÓêûÿÿÿÿ8üå°€ü.
+b	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(µÇÎó8üå°€ü.
+]	java:S125F"<This block of commented-out lines of code should be removed.(‹£ºÙøÿÿÿÿ8Œ…‹¤ü.
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ğÕ8“à¯ˆü.
+b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(–ğÕ8“à¯ˆü.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™õŞ¶8üå°€ü.
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Î‰¥ùÿÿÿÿ8üå°€ü.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’½Æûÿÿÿÿ8üå°€ü.

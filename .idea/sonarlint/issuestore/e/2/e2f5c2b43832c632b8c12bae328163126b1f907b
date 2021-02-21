@@ -1,0 +1,8 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(É®äë8»†‹¤ü.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ‹‡ÿÿÿÿÿ
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á”Ÿ™ûÿÿÿÿ
+„
+java:S1488'"bImmediately return this expression instead of assigning it to the temporary variable "productGet".(Ô†Ç‹şÿÿÿÿ8„ˆ¯€ü.
+„
+java:S1488!"bImmediately return this expression instead of assigning it to the temporary variable "productGet".(ÅñÿÇûÿÿÿÿ8¤ÙÈıû.
